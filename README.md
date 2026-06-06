@@ -46,11 +46,13 @@
 
 ## 📸 Screenshots
 
-> *Coming soon – placeholder images until you upload real screenshots.*
-
-| Home screen | Symptom input | Results |
+| Onboarding | General Info | Symptom Input |
 | --- | --- | --- |
-| ![Home](https://via.placeholder.com/250x500/008B8B/FFFFFF?text=Home) | ![Symptoms](https://via.placeholder.com/250x500/008B8B/FFFFFF?text=Symptoms) | ![Results](https://via.placeholder.com/250x500/008B8B/FFFFFF?text=Results) |
+| ![Onboarding](screenshots/onboarding.png) | ![General Info](screenshots/general_info.png) | ![Symptom Input](screenshots/symptom_info.png) |
+
+| Loading | Results |
+| --- | --- |
+| ![Loading](screenshots/loading.png) | ![Results](screenshots/results.png) |
 
 ---
 
